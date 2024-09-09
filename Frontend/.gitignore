@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/demoToDO/.vite/deps_temp_b24095bd
+/demoToDO/.vite/deps_temp_b24095bd/package.json
+/ziua2-React/.vite/deps_temp_492cf565
